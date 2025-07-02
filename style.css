@@ -1,0 +1,33 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.navbar, footer {
+  background-color: #0d6efd;
+}
+
+.hero-section {
+  background: linear-gradient(to right, #0d6efd, #003366);
+  height: 400px;
+  color: white;
+  text-shadow: 1px 1px 4px #000;
+}
+
+.card h5 {
+  color: #0d6efd;
+}
+
+.carousel-caption h5 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  border: none;
+}
